@@ -1,0 +1,29 @@
+{
+    "company": {
+        "ownerName": "Justin",
+        "companyName": "MyCompany",
+        "employees": [
+            {
+                "employeeID": 0,
+                "firstName": "",
+                "middleName": "",
+                "lastName": "",
+                "department": "",
+                "position": "",
+                "salaryPerHour": 0.0,
+                "clockInTime": "",
+                "clockOutTime": ""
+            }
+        ],
+        "products": [
+            {
+                "productID": 0,
+                "productName": "",
+                "productDescription": "",
+                "price": 0.0,
+                "costProduction": 0.0,
+                "category": ""
+            }
+        ]
+    }
+}
