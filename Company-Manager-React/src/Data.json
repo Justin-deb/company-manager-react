@@ -5,12 +5,12 @@
         "employees": [
             {
                 "employeeID": 0,
-                "firstName": "",
+                "firstName": "Justin",
                 "middleName": "",
-                "lastName": "",
-                "department": "",
-                "position": "",
-                "salaryPerHour": 0.0,
+                "lastName": "Estrada Cruz",
+                "department": "IT",
+                "position": "Lead software developer",
+                "salaryPerHour": 45.0,
                 "clockInTime": "",
                 "clockOutTime": ""
             }
