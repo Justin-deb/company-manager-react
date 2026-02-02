@@ -4,8 +4,8 @@
         "companyName": "MyCompany",
         "employees": [
             {
-                "employeeID": 0,
-                "firstName": "Justin",
+                "id": 0,
+                "first_name": "Justin",
                 "middleName": "",
                 "lastName": "Estrada Cruz",
                 "department": "IT",
@@ -13,15 +13,37 @@
                 "salaryPerHour": 45.0,
                 "clockInTime": "",
                 "clockOutTime": ""
+            },
+            {
+                "id": 1,
+                "first_name": "Micheal",
+                "middleName": "",
+                "lastName": "Miller Brown",
+                "department": "Human Resources",
+                "position": "HR Assistant",
+                "salaryPerHour": 45.0,
+                "clockInTime": "",
+                "clockOutTime": ""
+            },
+            {
+                "id": 2,
+                "first_name": "Helena",
+                "middleName": "Elizabeth",
+                "lastName": "Goodman Smith",
+                "department": "Finance",
+                "position": "Finance reporter",
+                "salaryPerHour": 45.0,
+                "clockInTime": "",
+                "clockOutTime": ""
             }
         ],
         "products": [
             {
-                "productID": 0,
-                "productName": "",
-                "productDescription": "",
+                "id": 0,
+                "Name": "",
+                "Description": "",
                 "price": 0.0,
-                "costProduction": 0.0,
+                "productionCost": 0.0,
                 "category": ""
             }
         ]
